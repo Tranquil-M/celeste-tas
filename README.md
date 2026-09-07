@@ -3,7 +3,7 @@ Welcome! This repository holds all of my custom-made TAS for the amazing game of
 
 | Chapter | Type     | Time     | File                                                     |
 | ------- | -------- | -------- | -------------------------------------------------------- |
-| 1a      | Dashless | 1:55.277 | [1a_nodash_6917](TAS%20Files/1a/dashless/1a_nodash_6917.tas) |
+| 1a      | Dashless | 1:55.277 | [1a_nodash_155277](TAS%20Files/1a/dashless/1a_nodash_155277.tas) |
 - - -
 If you have any tips, or anything that you want to talk about regarding the TAS that I make, feel free to open a new [discussion](https://github.com/Tranquil-M/celeste-tas/discussions)!
 
